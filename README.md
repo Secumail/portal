@@ -1,2 +1,2 @@
 # portal
-Portal script snippet to display secure email as a secure web page
+Secumail portal script snippet to display secure email as a secure web page
